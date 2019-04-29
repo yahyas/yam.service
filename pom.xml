@@ -9,4 +9,12 @@
   	<maven.compiler.source>1.8</maven.compiler.source>
   	<maven.compiler.target>1.8</maven.compiler.target>
   </properties>
+  <modules>
+  	<module>core.base.service</module>
+  	<module>core.entype.service</module>
+  	<module>core.field.service</module>
+  	<module>core.keyvalue.service</module>
+  	<module>core.log.service</module>
+  	<module>core.user.service</module>
+  </modules>
 </project>
