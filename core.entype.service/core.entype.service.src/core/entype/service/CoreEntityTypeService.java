@@ -16,7 +16,7 @@ import core.entype.service.config.Config;
 import core.entype.service.config.PropertiesBuilder;
 import tr.edu.izu.yam.core.entype.CoreEntityType;
 
-public class Application {
+public class CoreEntityTypeService {
 
 	private static SessionFactory getSessionFactory() {
 		PropertiesBuilder propertiesBuilder = null;
