@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>tr.edu.izu.yam</groupId>
-    <artifactId>yam.model</artifactId>
+    <artifactId>yam.service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>core.field</artifactId>
